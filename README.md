@@ -1,3 +1,10 @@
+# PAL Java Hamcrest fork
+
+We partially convert this Java Hamcrest codebase to Kotlin in a PAL lab.
+Take a look at the [kotlin branch](tree/kotlin) for an example conversion.
+
+------------
+
 ![JavaHamcrest](http://hamcrest.org/images/logo.jpg)
 
 [![Build Status](https://travis-ci.org/hamcrest/JavaHamcrest.png?branch=master)](https://travis-ci.org/hamcrest/JavaHamcrest)
